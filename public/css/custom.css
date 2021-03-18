@@ -1,0 +1,55 @@
+body{
+    font-family: 'Ibarra Real Nova', serif;
+    color: #26514E;
+    background-color: white;
+}
+.btn-custom-primary {
+    background-color: #7C7C31;
+    color: #fff;
+    border-radius: 10px;
+
+}
+
+.choose-category a{
+    color: #26514E;
+}
+.choose-category .card
+{
+    border-radius: 20px;
+}
+
+.choose-category .card :hover
+{
+    background-color: #7C7C31;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.products img {
+    max-height: 250px;
+    max-width: 100%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.products .card {
+    border-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+
+.breadcrumb
+{
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: #26514E;
+}
+
+.image-product {
+    border-radius: 20px;
+}

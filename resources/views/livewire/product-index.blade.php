@@ -12,7 +12,7 @@
 
     <div class="row mt-3">
         <div class="col-md-9">
-            <h2><Strong>List Foods</Strong></h2>
+            <h2><Strong>{{$title}}</Strong></h2>
         </div>
         <div class="col-md-3">
             <div class="input-group mb-3">

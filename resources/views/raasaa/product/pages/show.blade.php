@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-md-12">
 
-                    <img src="{{$data->image}}" class="card-img" />
+                    <img src="{{$data->image}}" class="card-img" style="max-height: 500px" />
                 </div>
             </div>
             <hr>
